@@ -33,3 +33,10 @@ tests/integration/output/
 # OS
 .DS_Store
 Thumbs.db
+
+
+*.onnx
+*.onnx.json
+*.wav
+.venv/
+__pycache__/
